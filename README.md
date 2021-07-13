@@ -15,5 +15,5 @@
 * Enterキー/GAME STARTボタンを押して、ゲームスタート。
 
 ### ランキングについての注意
-* ```Client/data/PlayerName.txt```を変更して、プレイヤー名を自分の名前に変えておくこと。
+* ```Client/data/playerName.txt```を変更して、プレイヤー名を自分の名前に変えておくこと。
 （デフォルトでは、「wasetarou」という名前になっている。）
